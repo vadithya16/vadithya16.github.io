@@ -418,4 +418,8 @@ p.contactus {
 p.name {
 	margin-top: 35%;
 }
+.form {
+    width: 100%;
+    height: unset;
+}
 }
